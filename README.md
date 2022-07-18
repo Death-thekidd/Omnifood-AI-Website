@@ -1,2 +1,2 @@
 # Checkout the the site
-https://death-thekidd.github.io/Omnifood-AI-Website/
+<a href="https://death-thekidd.github.io/Omnifood-AI-Website/">Omnifood</a>
